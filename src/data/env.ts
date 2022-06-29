@@ -1,0 +1,5 @@
+export const {
+  VITE_SERVICE_ID,
+  VITE_SERVICE_TEMPLATE_ID,
+  VITE_SERVICE_PUBLIC_KEY
+} = import.meta.env
